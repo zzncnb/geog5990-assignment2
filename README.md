@@ -1,7 +1,7 @@
 # Planning for drunks
 https://github.com/zzncnb/geog5990-assignment2
 
-Build the animation model to show where drunks walk when they are trying to get home
+Build the animation model to show where drunks walk when they are trying to get home.
 
 ## Usages
 
